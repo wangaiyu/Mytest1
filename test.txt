@@ -1,6 +1,11 @@
 hello
 nihao
 laqu
+<<<<<<< HEAD
 master
 branch1
 主分支
+=======
+branch1
+子分支
+>>>>>>> branch1
